@@ -2,15 +2,15 @@
 
 Este proyecto fue creado con el fin de ejercitar y demostrar los conocimientos adquiridos en clases virtuales sobre el Modelado de Datos y SQL ante un caso que se pueda aplicar dentro de la vida cotidiana.
 
-## El contenido de este proyecto incluye:
+## Este Proyecto Incluye
 
 - Uso de **Base de Datos**, **Diagramas de Modelado de Datos** y **SQL**.
 - Identificación de:
    - Entidades y Relaciones.
    - Atributos y Tipos.
    - Claves Primarias y Foráneas.
-   - Cardinalidad I-II-III
-   - Normalizacion I-II-III-IV-V-VI-VII
+   - Cardinalidad I-II-III.
+   - Normalizacion I-II-III-IV-V-VI-VII.
 - **Creación**, **Modificación**, **Borrado** de Tablas.
 - **Incercion** y **Extracción** de datos hacia las Tablas Creadas.
 
@@ -32,14 +32,14 @@ Se posee un Video Club que no posee el software adecuado para manejar el negocio
 
 - **SQL**
 
-## Instrucciones de instalación y uso
+## Instrucciones de Instalación y Uso
 
 Requisitos de Software:
 
 - **draw.io** https://app.diagrams.net/
 - **DBeaver** https://dbeaver.io/ - Tested Version: 25.0.0.202503021833 - **PostgreSQL**
 
-Descripción de Archivos
+Descripción de Archivos:
 
 - **draw.io :** Representación visual de la base de datos.
 - **DBeaver :** Contiene las consultas y estructuras necesarias para crear la base de datos en PostgreSQL.
