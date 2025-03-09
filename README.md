@@ -39,6 +39,11 @@ Requisitos de Software:
 - **draw.io** https://app.diagrams.net/
 - **DBeaver** https://dbeaver.io/ - Tested Version: 25.0.0.202503021833 - **PostgreSQL**
 
+Descripción de Archivos
+
+- **draw.io :** Representación visual de la base de datos.
+- **DBeaver :** Contiene las consultas y estructuras necesarias para crear la base de datos en PostgreSQL.
+
 Para utilizar este proyecto, sigue estos pasos:
 
 1. Si quieres puedes descargar los archivos directamente desde el navegador o clonar el repositorio desde GitHub (Mediante SourceTree si te es más cómodo):
@@ -47,11 +52,6 @@ Para utilizar este proyecto, sigue estos pasos:
 2.1 Abre el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
 
 2.2 Abre el archivo "Script SQL VideoClub.sql" a través de la aplicación  **DBeaver**. Recalco que el código SQL fué escrito mediante **PostgreSQL**.
-
-## Descripción de Archivos
-
-- **draw.io :** Representación visual de la base de datos.
-- **DBeaver :** Contiene las consultas y estructuras necesarias para crear la base de datos en PostgreSQL.
 
 ## Sin contribuciones ni licencias
 
