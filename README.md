@@ -4,7 +4,15 @@ Este proyecto fue creado con el fin de ejercitar y demostrar los conocimientos a
 
 ## El contenido de este proyecto incluye:
 
-- Uso de **Diagramas de Modelado de Datos** y **SQL**.
+- Uso de **Base de Datos**, **Diagramas de Modelado de Datos** y **SQL**.
+- Identificación de:
+   - Entidades y Relaciones.
+   - Atributos y Tipos.
+   - Claves Primarias y Foráneas.
+   - Cardinalidad I-II-III
+   - Normalizacion I-II-III-IV-V-VI-VII
+- **Creación**, **Modificación**, **Borrado** de Tablas.
+- **Incercion** y **Extracción** de datos hacia las Tablas Creadas.
 
 ## Objetivo del Proyecto
 
@@ -40,7 +48,7 @@ Para utilizar este proyecto, sigue estos pasos:
 
 2.2 Abre el archivo "Script SQL VideoClub.sql" a través de la aplicación  **DBeaver**. Tenga en cuanta que el código SQL fué escrito mediante PostgreSQL.
 
-##Descripción de Archivos
+## Descripción de Archivos
 
 - **draw.io :** Representación visual de la base de datos.
 - **DBeaver :** Contiene las consultas y estructuras necesarias para crear la base de datos en PostgreSQL.
