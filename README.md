@@ -49,9 +49,10 @@ Para utilizar este proyecto, sigue estos pasos:
 1. Si quieres puedes descargar los archivos directamente desde el navegador o clonar el repositorio desde GitHub (Mediante SourceTree si te es más cómodo):
    ```bash
    git clone https://github.com/PabloSch26/SQL_Entrega.git
-2.1 Abre el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
+   
+2.1 Abra el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
 
-2.2 Abre el archivo "Script SQL VideoClub.sql" a través de la aplicación  **DBeaver**. Recalco que el código SQL fué escrito mediante **PostgreSQL**.
+2.2 Abra el archivo "Script SQL VideoClub.sql" a través de la aplicación  **DBeaver**. Recalco que el código SQL fué escrito mediante **PostgreSQL**.
 
 ## Sin contribuciones ni licencias
 
