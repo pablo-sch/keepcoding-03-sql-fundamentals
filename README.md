@@ -30,14 +30,14 @@ Se posee un Video Club que no posee el software adecuado para manejar el negocio
 
 ## Tecnologías
 
-- **SQL**
+- **SQL** (PostgreSQL)
 
 ## Instrucciones de Instalación y Uso
 
 Requisitos de Software:
 
 - **draw.io** https://app.diagrams.net/
-- **DBeaver** https://dbeaver.io/ - Tested Version: 25.0.0.202503021833 - **PostgreSQL**
+- **DBeaver** https://dbeaver.io/ - Tested Version: 25.0.0.202503021833 - Utilizar base de datos **PostgreSQL**
 
 Descripción de Archivos:
 
@@ -45,14 +45,15 @@ Descripción de Archivos:
 - **DBeaver :** Contiene las consultas y estructuras necesarias para crear la base de datos en PostgreSQL.
 
 Para utilizar este proyecto, sigue estos pasos:
+Si quieres puedes descargar los archivos de varias maneras (Lo que te sea más cómodo). El siguiente método fué el que utilice:
 
-1. Si quieres puedes descargar los archivos directamente desde el navegador o clonar el repositorio desde GitHub (Mediante SourceTree si te es más cómodo):
+1. Clonar el repositorio de GitHub por SourceTree mediante el link de a continuación:
    ```bash
    git clone https://github.com/PabloSch26/SQL_Entrega.git
    
-2.1 Abra el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
+2.1 Una vez clonado el repositorio. Abra el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
 
-2.2 Abra el archivo "Script SQL VideoClub.sql" a través de la aplicación  **DBeaver**. Recalco que el código SQL fué escrito mediante **PostgreSQL**.
+2.2 Abra el archivo "Script SQL VideoClub.sql" a través de la aplicación  **DBeaver** mediante la base de datos **PostgreSQL**.
 
 ## Sin contribuciones ni licencias
 
