@@ -1,16 +1,24 @@
 # Entrega Proyecto de Modelado de Datos y SQL
 
+**Proyectos KeepCoding - Web 18**  
+Consulta la lista completa de repositorios y descripciones en [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
+
+## Selecciona tu Idioma
+
+- 🇺🇸 [Inglés](README.md)
+- 🇩🇪 [Alemán](README.de.md)
+
 Este proyecto fue creado con el fin de ejercitar y demostrar los conocimientos adquiridos en clases virtuales sobre el Modelado de Datos y SQL ante un caso que se pueda aplicar dentro de la vida cotidiana.
 
 ## Este Proyecto Incluye
 
 - Uso de **Base de Datos**, **Diagramas de Modelado de Datos** y **SQL**.
 - Identificación de:
-   - Entidades y Relaciones.
-   - Atributos y Tipos.
-   - Claves Primarias y Foráneas.
-   - Cardinalidad I-II-III.
-   - Normalizacion I-II-III-IV-V-VI-VII.
+  - Entidades y Relaciones.
+  - Atributos y Tipos.
+  - Claves Primarias y Foráneas.
+   Cardinalidad I-II-III.
+  - Normalizacion I-II-III-IV-V-VI-VII.
 - **Creación**, **Modificación**, **Borrado** de Tablas.
 - **Incercion** y **Extracción** de datos hacia las Tablas Creadas.
 
@@ -48,8 +56,10 @@ Para utilizar este proyecto, sigue estos pasos:
 Si quieres puedes descargar los archivos de varias maneras (Lo que te sea más cómodo). El siguiente método fué el que utilice:
 
 1. Clonar el repositorio de GitHub por SourceTree mediante el link de a continuación:
+
    ```bash
    git clone https://github.com/PabloSch26/SQL_Entrega.git
+   ```
    
 2.1 Una vez clonado el repositorio. Abra el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
 
