@@ -1,30 +1,36 @@
 # Entrega Proyecto de Modelado de Datos y SQL
 
 **Proyectos KeepCoding - Web 18**  
-Consulta la lista completa de repositorios y descripciones en [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
+Consulta la lista completa de repositorios y descripciones en 📁 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
 ## Selecciona tu Idioma
 
 - 🇺🇸 [Inglés](README.md)
 - 🇩🇪 [Alemán](README.de.md)
 
+<!-- ------------------------------------------------------------------------------------------- -->
+
+## Objetivo del Proyecto
+
 Este proyecto fue creado con el fin de ejercitar y demostrar los conocimientos adquiridos en clases virtuales sobre el Modelado de Datos y SQL ante un caso que se pueda aplicar dentro de la vida cotidiana.
 
-## Este Proyecto Incluye
+Los principales objetivos son dar una solución informática a través del maquetado de una base de datos ante una problemática que puede ocurrir en la vida real y ser capaces de aplicar los contenidos enseñados en clases online de forma efectiva.
+
+<!-- ------------------------------------------------------------------------------------------- -->
+
+## Conocimientos Aprendidos y Trabajados
 
 - Uso de **Base de Datos**, **Diagramas de Modelado de Datos** y **SQL**.
 - Identificación de:
   - Entidades y Relaciones.
   - Atributos y Tipos.
   - Claves Primarias y Foráneas.
-   Cardinalidad I-II-III.
+    Cardinalidad I-II-III.
   - Normalizacion I-II-III-IV-V-VI-VII.
 - **Creación**, **Modificación**, **Borrado** de Tablas.
 - **Incercion** y **Extracción** de datos hacia las Tablas Creadas.
 
-## Objetivo del Proyecto
-
-Los principales objetivos son dar una solución informática a través del maquetado de una base de datos ante una problemática que puede ocurrir en la vida real y ser capaces de aplicar los contenidos enseñados en clases online de forma efectiva.
+<!-- ------------------------------------------------------------------------------------------- -->
 
 ## Detalles del Proyecto
 
@@ -36,34 +42,49 @@ Se posee un Video Club que no posee el software adecuado para manejar el negocio
 - Se necesita saber que Socio a **Prestado** cada copia y cuándo, o sea, la fecha en la que se la ha llevado y la fecha de la devolución. Cuando una película no tiene fecha de devolución, se considera prestada.
 - Además se necesita consultar qué películas estan disponibles para alquilar en este momento (las que no están prestadas). Se requiere saber el título de la película y el número de copias disponibles.
 
-## Tecnologías
+<!-- ------------------------------------------------------------------------------------------- -->
 
-- **SQL** (PostgreSQL)
+## Tecnologías Utilizadas
+
+- **SQL (PostgreSQL):** Lenguaje estandarizado para gestionar y manipular bases de datos relacionales.
+- **draw.io :** Representación visual de la base de datos.
+
+<!-- ------------------------------------------------------------------------------------------- -->
 
 ## Instrucciones de Instalación y Uso
 
-Requisitos de Software:
+### Requisitos de Software
 
-- **draw.io** https://app.diagrams.net/
-- **DBeaver** https://dbeaver.io/ - Tested Version: 25.0.0.202503021833 - Utilizar base de datos **PostgreSQL**
+- **[draw.io](https://app.diagrams.net)**
+- **[DBeaver](https://dbeaver.io/)** (testeado en la versión **25.0.0.202503021833**)
 
-Descripción de Archivos:
+### Clonación del Repositorio
 
-- **draw.io :** Representación visual de la base de datos.
-- **DBeaver :** Contiene las consultas y estructuras necesarias para crear la base de datos en PostgreSQL.
+Proyecto
 
-Para utilizar este proyecto, sigue estos pasos:
-Si quieres puedes descargar los archivos de varias maneras (Lo que te sea más cómodo). El siguiente método fué el que utilice:
+```bash
+   git clone https://github.com/pablo-sch/keepcoding-03-sql-fundamentals.git
+```
 
-1. Clonar el repositorio de GitHub por SourceTree mediante el link de a continuación:
+Demo
 
-   ```bash
-   git clone https://github.com/PabloSch26/SQL_Entrega.git
-   ```
-   
-2.1 Una vez clonado el repositorio. Abra el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
+![Demo](https://github.com/pablo-sch/pablo-sch/blob/main/etc/clone-tutorial.gif)
 
-2.2 Abra el archivo "Script SQL VideoClub.sql" a través de la aplicación  **DBeaver** mediante la base de datos **PostgreSQL**.
+### Abrir Archivos
+
+1. Abra el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
+
+2. Abra el archivo "Script SQL VideoClub.sql" a través de la aplicación **DBeaver** mediante la base de datos **PostgreSQL**.
+
+<!-- ------------------------------------------------------------------------------------------- -->
+
+## Vista Previa del Proyecto
+
+### VideoClub
+
+![VideoClub](../etc/preview_images/video_club.png)
+
+<!-- ------------------------------------------------------------------------------------------- -->
 
 ## Sin contribuciones ni licencias
 
