@@ -1,12 +1,8 @@
 # Data Modeling and SQL Project Submission
 
-**KeepCoding Projects - Web 18**  
-Check the full list of repositories and descriptions in 📁 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
+`>` **KeepCoding Projects - Web 18:** 📁 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
-## Select Your Language
-
-- 🇪🇸 [Spanish](README.es.md)
-- 🇩🇪 [German](README.de.md)
+`>` **Select your Language:** [Spanish](README.es.md) 🔄 [German](README.de.md)
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
@@ -53,39 +49,36 @@ There is a Video Club that does not have the appropriate software to manage the 
 
 ## Installation and Usage Instructions
 
-### Software Requirements
+### 1. Software Requirements
 
 - **[draw.io](https://app.diagrams.net)**
 - **[DBeaver](https://dbeaver.io/)** (tested on version **25.0.0.202503021833**)
 
-### Cloning the Repository
-
-Project
+### 2. Repository Cloning
 
 ```bash
    git clone https://github.com/pablo-sch/keepcoding-03-sql-fundamentals.git
 ```
 
-Demo
+`>` **View Cloning Demo in VSCode:** 🎥 [Gif Demo](https://github.com/pablo-sch/pablo-sch/blob/main/etc/clone-tutorial.gif)
 
-![Demo](https://github.com/pablo-sch/pablo-sch/blob/main/etc/clone-tutorial.gif)
+### 3. Opening Files
 
-### Opening Files
-
-1. Open the "Diagrama Modelado de Datos VideoClub.drawio" file through the **draw.io** website.
-
-2. Open the "Script SQL VideoClub.sql" file through the **DBeaver** application using the **PostgreSQL** database.
+1. Open the file **"Diagrama Modelado de Datos VideoClub.drawio"** using **draw.io**.
+2. Open the file **"Script SQL VideoClub.sql"** using **DBeaver** with a **PostgreSQL** database.
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-## Project Preview
+## Project Resources
 
-### VideoClub
+### Project Preview
+
+#### VideoClub
 
 ![VideoClub](../etc/preview_images/video_club.png)
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-## No Contributions or Licenses
+## Contributions and Licensing
 
-This project does not have external contributions or licenses.
+Project licensed under the MIT License. Free to use and distribute with attribution. External contributions are not accepted, but suggestions are welcome.

@@ -1,12 +1,8 @@
 # Entrega Proyecto de Modelado de Datos y SQL
 
-**Proyectos KeepCoding - Web 18**  
-Consulta la lista completa de repositorios y descripciones en 📁 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
+`>` **Proyectos KeepCoding - Web 18:** 📁 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
-## Selecciona tu Idioma
-
-- 🇺🇸 [Inglés](README.md)
-- 🇩🇪 [Alemán](README.de.md)
+`>` **Selecciona tu Idioma:** [Inglés](README.md) 🔄 [Alemán](README.de.md)
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
@@ -53,24 +49,20 @@ Se posee un Video Club que no posee el software adecuado para manejar el negocio
 
 ## Instrucciones de Instalación y Uso
 
-### Requisitos de Software
+### 1. Requisitos de Software
 
 - **[draw.io](https://app.diagrams.net)**
 - **[DBeaver](https://dbeaver.io/)** (testeado en la versión **25.0.0.202503021833**)
 
-### Clonación del Repositorio
-
-Proyecto
+### 2. Clonación del Repositorio
 
 ```bash
    git clone https://github.com/pablo-sch/keepcoding-03-sql-fundamentals.git
 ```
 
-Demo
+`>` **Ver Demo de Clonanción en VSCode:** 🎥 [Gif Demo](https://github.com/pablo-sch/pablo-sch/blob/main/etc/clone-tutorial.gif)
 
-![Demo](https://github.com/pablo-sch/pablo-sch/blob/main/etc/clone-tutorial.gif)
-
-### Abrir Archivos
+### 3. Abrir Archivos
 
 1. Abra el archivo "Diagrama Modelado de Datos VideoClub.drawio" a través de la página **draw.io**.
 
@@ -78,14 +70,16 @@ Demo
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-## Vista Previa del Proyecto
+## Recursos del Proyecto
 
-### VideoClub
+### Vista Previa del Proyecto
+
+#### VideoClub
 
 ![VideoClub](../etc/preview_images/video_club.png)
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-## Sin contribuciones ni licencias
+## Contribuciones y Licencias
 
-Este proyecto no cuenta con contribuciones externas ni licencias.
+Proyecto bajo licencia MIT. Uso y distribución libres con atribución. No se aceptan contribuciones externas, pero las sugerencias son bienvenidas.

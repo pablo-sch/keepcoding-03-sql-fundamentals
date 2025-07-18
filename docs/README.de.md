@@ -1,12 +1,8 @@
 # Datenmodellierung und SQL-Projektlieferung
 
-**KeepCoding Projekte - Web 18**  
-Die vollständige Liste der Repositories und Beschreibungen findest du in 📁 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
+`>` **KeepCoding Projekte - Web 18:** 📁 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
-## Wähle deine Sprache
-
-- 🇺🇸 [Englisch](README.md)
-- 🇪🇸 [Spanisch](README.es.md)
+`>` **Wähle deine Sprache:** [Englisch](README.md) 🔄 [Spanish](README.es.md)
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
@@ -46,46 +42,43 @@ Es gibt einen Videoverleih, der nicht über die geeignete Software verfügt, um 
 
 ## Verwendete Technologien
 
-- **SQL (PostgreSQL):** Standardisierte Sprache für die Verwaltung und Bearbeitung von relationalen Datenbanken.
+- **SQL (PostgreSQL):** Standardisierte Sprache zur Verwaltung und Bearbeitung relationaler Datenbanken.
 - **draw.io:** Visuelle Darstellung der Datenbank.
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-## Installations- und Gebrauchsanleitung
+## Installations- und Nutzungshinweise
 
-### Softwareanforderungen
+### 1. Softwareanforderungen
 
 - **[draw.io](https://app.diagrams.net)**
 - **[DBeaver](https://dbeaver.io/)** (getestet mit Version **25.0.0.202503021833**)
 
-### Klonen des Repositories
-
-Projekt
+### 2. Repository-Klonen
 
 ```bash
    git clone https://github.com/pablo-sch/keepcoding-03-sql-fundamentals.git
 ```
 
-Demo
+`>` **Klon-Demo in VSCode ansehen:** 🎥 [Gif Demo](https://github.com/pablo-sch/pablo-sch/blob/main/etc/clone-tutorial.gif)
 
-![Demo](https://github.com/pablo-sch/pablo-sch/blob/main/etc/clone-tutorial.gif)
+### 3. Dateien öffnen
 
-### Öffnen der Dateien
-
-1. Öffnen Sie die Datei "Diagrama Modelado de Datos VideoClub.drawio" über die **draw.io**-Website.
-
-2. Öffnen Sie die Datei "Script SQL VideoClub.sql" über die **DBeaver**-Anwendung in der **PostgreSQL**-Datenbank.
+1. Öffne die Datei **„Diagrama Modelado de Datos VideoClub.drawio“** über **draw.io**.
+2. Öffne die Datei **„Script SQL VideoClub.sql“** in **DBeaver** mit einer **PostgreSQL**-Datenbank.
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-## Projektvorschau
+## Projektressourcen
 
-### VideoClub
+### Projektvorschau
+
+#### VideoClub
 
 ![VideoClub](../etc/preview_images/video_club.png)
 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-## Keine Beiträge oder Lizenzen
+## Beiträge und Lizenzierung
 
-Dieses Projekt hat keine externen Beiträge oder Lizenzen.
+Projekt unter MIT-Lizenz. Frei zur Nutzung und Verbreitung mit Namensnennung. Externe Beiträge werden nicht akzeptiert, aber Vorschläge sind willkommen.
